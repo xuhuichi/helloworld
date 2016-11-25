@@ -11,5 +11,6 @@
 int32_t main()
 {
 	std::cout << "hello,worl" << std::endl;
+	std::cout << "hello,wor2" << std::endl;
 	return 0;
 }
