@@ -13,9 +13,6 @@ int32_t main()
 	std::cout << "hello,worl" << std::endl;
 	std::cout << "hello,wor2" << std::endl;
 	std::cout << "hello,wor3" << std::endl;
-<<<<<<< HEAD
-=======
 	std::cout << "hello,wor4" << std::endl;
->>>>>>> trunk
 	return 0;
 }
